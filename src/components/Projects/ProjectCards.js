@@ -13,6 +13,7 @@ function ProjectCards(props) {
         style={{
           maxHeight: 240,
           maxWidth: 250,
+          marginLeft: 30,
         }}
       />
       <Card.Body>
