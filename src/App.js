@@ -32,9 +32,9 @@ function App() {
         <ScrollToTop />
         <Switch>
           <Route path="/portfolio" exact component={Home} />
-          <Route path="/project" component={Projects} />
-          <Route path="/about" component={About} />
-          <Route path="/resume" component={Resume} />
+          <Route path="/portfolio/project" component={Projects} />
+          <Route path="/portfolio/about" component={About} />
+          <Route path="/portfolio/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
