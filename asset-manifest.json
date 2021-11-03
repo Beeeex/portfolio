@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3964482b.chunk.css",
+    "main.js": "/portfolio/static/js/main.6191c999.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6191c999.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b50e528d.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b50e528d.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/portfolio/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.9269bbce.chunk.js": "/portfolio/static/js/2.9269bbce.chunk.js",
+    "static/js/2.9269bbce.chunk.js.map": "/portfolio/static/js/2.9269bbce.chunk.js.map",
+    "static/js/3.67f8a870.chunk.js": "/portfolio/static/js/3.67f8a870.chunk.js",
+    "static/js/3.67f8a870.chunk.js.map": "/portfolio/static/js/3.67f8a870.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/portfolio/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.3964482b.chunk.css.map": "/portfolio/static/css/main.3964482b.chunk.css.map",
+    "static/js/2.9269bbce.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9269bbce.chunk.js.LICENSE.txt",
+    "static/media/CV_BassanM.e3ebc6ef.pdf": "/portfolio/static/media/CV_BassanM.e3ebc6ef.pdf",
+    "static/media/DeliverOne.d37ba320.jpeg": "/portfolio/static/media/DeliverOne.d37ba320.jpeg",
+    "static/media/about2.3a416642.png": "/portfolio/static/media/about2.3a416642.png",
+    "static/media/avatar.c5b1ead8.svg": "/portfolio/static/media/avatar.c5b1ead8.svg",
+    "static/media/coverandback.2327f783.jpg": "/portfolio/static/media/coverandback.2327f783.jpg",
+    "static/media/dantedì.35e9d0e1.jpg": "/portfolio/static/media/dantedì.35e9d0e1.jpg",
+    "static/media/dms.a33355e6.png": "/portfolio/static/media/dms.a33355e6.png",
+    "static/media/filodiretto.af4cfef7.jpg": "/portfolio/static/media/filodiretto.af4cfef7.jpg",
+    "static/media/style.css": "/portfolio/static/media/pre.86356ecd.svg",
+    "static/media/home-main.fdb7b64d.svg": "/portfolio/static/media/home-main.fdb7b64d.svg",
+    "static/media/logo-finale-chromaleon.1f167517.png": "/portfolio/static/media/logo-finale-chromaleon.1f167517.png",
+    "static/media/logo_MB.d1f56186.png": "/portfolio/static/media/logo_MB.d1f56186.png",
+    "static/media/logo_top_canestro.9b7f52fc.png": "/portfolio/static/media/logo_top_canestro.9b7f52fc.png",
+    "static/media/marconi_abano_logo.cddd4d81.png": "/portfolio/static/media/marconi_abano_logo.cddd4d81.png",
+    "static/media/programmafronte.758b5837.jpg": "/portfolio/static/media/programmafronte.758b5837.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b50e528d.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.9269bbce.chunk.js",
+    "static/css/main.3964482b.chunk.css",
+    "static/js/main.6191c999.chunk.js"
+  ]
+}
