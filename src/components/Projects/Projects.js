@@ -7,7 +7,7 @@ import duemila from "../../Assets/Projects/coverandback.jpg";
 import dmsol from "../../Assets/Projects/dms.png";
 import dantedì from "../../Assets/Projects/dantedì.jpg";
 import programmafronte from "../../Assets/Projects/programmafronte.jpg";
-import deliverOne from "../../Assets/Projects/DeliverOne.jpeg";
+import deliverOne from "../../Assets/Projects/DeliverOne.png";
 import filodiretto from "../../Assets/Projects/filodiretto.jpg";
 import Chromaleon from "../../Assets/Projects/logo-finale-chromaleon.png";
 import ctm from "../../Assets/Projects/marconi_abano_logo.png";
