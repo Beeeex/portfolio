@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3964482b.chunk.css",
-    "main.js": "/portfolio/static/js/main.4d814d1e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4d814d1e.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.685ddf3e.chunk.css",
+    "main.js": "/portfolio/static/js/main.a746f42e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a746f42e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b50e528d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b50e528d.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/portfolio/static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.9269bbce.chunk.js": "/portfolio/static/js/2.9269bbce.chunk.js",
-    "static/js/2.9269bbce.chunk.js.map": "/portfolio/static/js/2.9269bbce.chunk.js.map",
+    "static/js/2.cb781472.chunk.js": "/portfolio/static/js/2.cb781472.chunk.js",
+    "static/js/2.cb781472.chunk.js.map": "/portfolio/static/js/2.cb781472.chunk.js.map",
     "static/js/3.67f8a870.chunk.js": "/portfolio/static/js/3.67f8a870.chunk.js",
     "static/js/3.67f8a870.chunk.js.map": "/portfolio/static/js/3.67f8a870.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.e7f3f9d7.chunk.css.map": "/portfolio/static/css/2.e7f3f9d7.chunk.css.map",
-    "static/css/main.3964482b.chunk.css.map": "/portfolio/static/css/main.3964482b.chunk.css.map",
-    "static/js/2.9269bbce.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9269bbce.chunk.js.LICENSE.txt",
+    "static/css/main.685ddf3e.chunk.css.map": "/portfolio/static/css/main.685ddf3e.chunk.css.map",
+    "static/js/2.cb781472.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cb781472.chunk.js.LICENSE.txt",
     "static/media/CV_BassanM.e3ebc6ef.pdf": "/portfolio/static/media/CV_BassanM.e3ebc6ef.pdf",
-    "static/media/DeliverOne.d37ba320.jpeg": "/portfolio/static/media/DeliverOne.d37ba320.jpeg",
     "static/media/about2.3a416642.png": "/portfolio/static/media/about2.3a416642.png",
     "static/media/avatar.c5b1ead8.svg": "/portfolio/static/media/avatar.c5b1ead8.svg",
     "static/media/coverandback.2327f783.jpg": "/portfolio/static/media/coverandback.2327f783.jpg",
@@ -33,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.b50e528d.js",
     "static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.9269bbce.chunk.js",
-    "static/css/main.3964482b.chunk.css",
-    "static/js/main.4d814d1e.chunk.js"
+    "static/js/2.cb781472.chunk.js",
+    "static/css/main.685ddf3e.chunk.css",
+    "static/js/main.a746f42e.chunk.js"
   ]
 }
