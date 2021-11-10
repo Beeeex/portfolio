@@ -15,33 +15,27 @@ function Home2() {
               LET ME <span className="teal"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I know HTML since when I was 13 years old.
+              I discovered HTML when I was 13.
               <br />
               <br />
               Through my studies and experiences I became familiar with
-              <i>
-                <b className="teal"> Java, Javascript and React. </b>
-              </i>
+              <b className="teal">
+                {" "}
+                Java,<br></br> Javascript and React.{" "}
+              </b>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="teal">Web Technologies and Products </b> and also
-                in areas related to{" "}
-                <b className="teal">Graphic Design and Video editing.</b>
-              </i>
+              My fields of interest include building new{" "}
+              <b className="teal">Web Technologies and Products </b> <br></br>
+              and creating contents in areas related to{" "}
+              <b className="teal">Graphic Design and Video Editing.</b>
               <br />
               <br />
               Whenever possible, I apply my passion for developing and designing
               products ranging from{" "}
-              <b className="teal">Simple Websites and Mockups</b> to
-              <i>
-                <b className="teal"> creating Graphic Content</b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="teal">Videos, Flyers, Informative brochures</b>
-              </i>
+              <b className="teal">simple websites and app mockups</b> to
+              <b className="teal"> graphic content</b> like <br></br>
+              <b className="teal">videos, flyers and informative brochures.</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -53,9 +47,6 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="orange">connect </span>with me
-            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
@@ -88,6 +79,9 @@ function Home2() {
                 </a>
               </li>
             </ul>
+            <p>
+              Feel free to <span className="orange">connect </span>with me
+            </p>
           </Col>
         </Row>
       </Container>
