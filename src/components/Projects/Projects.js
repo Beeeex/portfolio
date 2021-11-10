@@ -12,6 +12,7 @@ import filodiretto from "../../Assets/Projects/filodiretto.jpg";
 import Chromaleon from "../../Assets/Projects/logo-finale-chromaleon.png";
 import ctm from "../../Assets/Projects/marconi_abano_logo.png";
 import TOP from "../../Assets/Projects/logo_top_canestro.png";
+import dmsolView from "../../Assets/Projects/dmsolsito.jpg";
 
 function Projects() {
   return (
@@ -93,7 +94,7 @@ function Projects() {
               description="I cooperate with a graphic designer to create a Website for a local business( lights & events).
               We did it using Wordpress for its user-friendly interface: we do not own its future management so we decided to use the CMS
               in order to meet great visuals and simple usage."
-              link="dmsol.jpg"
+              link={dmsolView}
             />
           </Col>
           <Col md={4} className="project-card">
