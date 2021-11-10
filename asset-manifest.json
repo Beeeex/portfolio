@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.685ddf3e.chunk.css",
-    "main.js": "/portfolio/static/js/main.a746f42e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a746f42e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e23ec18e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e23ec18e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b50e528d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b50e528d.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/portfolio/static/css/2.e7f3f9d7.chunk.css",
@@ -14,16 +14,16 @@
     "static/css/2.e7f3f9d7.chunk.css.map": "/portfolio/static/css/2.e7f3f9d7.chunk.css.map",
     "static/css/main.685ddf3e.chunk.css.map": "/portfolio/static/css/main.685ddf3e.chunk.css.map",
     "static/js/2.cb781472.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cb781472.chunk.js.LICENSE.txt",
-    "static/media/CV_BassanM.e3ebc6ef.pdf": "/portfolio/static/media/CV_BassanM.e3ebc6ef.pdf",
+    "static/media/CV-BassanM-EN.3cec4aee.pdf": "/portfolio/static/media/CV-BassanM-EN.3cec4aee.pdf",
     "static/media/about2.3a416642.png": "/portfolio/static/media/about2.3a416642.png",
     "static/media/avatar.c5b1ead8.svg": "/portfolio/static/media/avatar.c5b1ead8.svg",
     "static/media/coverandback.2327f783.jpg": "/portfolio/static/media/coverandback.2327f783.jpg",
     "static/media/dantedì.35e9d0e1.jpg": "/portfolio/static/media/dantedì.35e9d0e1.jpg",
     "static/media/dms.a33355e6.png": "/portfolio/static/media/dms.a33355e6.png",
+    "static/media/dmsolsito.b0de8c6d.jpg": "/portfolio/static/media/dmsolsito.b0de8c6d.jpg",
     "static/media/filodiretto.af4cfef7.jpg": "/portfolio/static/media/filodiretto.af4cfef7.jpg",
     "static/media/style.css": "/portfolio/static/media/pre.86356ecd.svg",
     "static/media/home-main.fdb7b64d.svg": "/portfolio/static/media/home-main.fdb7b64d.svg",
-    "static/media/logo-finale-chromaleon.1f167517.png": "/portfolio/static/media/logo-finale-chromaleon.1f167517.png",
     "static/media/logo_MB.d1f56186.png": "/portfolio/static/media/logo_MB.d1f56186.png",
     "static/media/logo_top_canestro.9b7f52fc.png": "/portfolio/static/media/logo_top_canestro.9b7f52fc.png",
     "static/media/marconi_abano_logo.cddd4d81.png": "/portfolio/static/media/marconi_abano_logo.cddd4d81.png",
@@ -34,6 +34,6 @@
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.cb781472.chunk.js",
     "static/css/main.685ddf3e.chunk.css",
-    "static/js/main.a746f42e.chunk.js"
+    "static/js/main.e23ec18e.chunk.js"
   ]
 }
