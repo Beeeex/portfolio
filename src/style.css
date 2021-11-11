@@ -14,6 +14,10 @@ html {
   --imp-text-color: #6dcff6;
   --imp-text-color2: #f89521;
 }
+a {
+  color: #6dcff6 !important;
+  text-decoration: none !important;
+}
 
 .teal {
   color: var(--imp-text-color) !important;
