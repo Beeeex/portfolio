@@ -21,7 +21,7 @@ function AboutCard() {
               <span className="teal">skillset</span>
             </a>{" "}
             below and my{" "}
-            <a href="">
+            <a href="/portfolio/project">
               <span className="teal">projects</span>
             </a>{" "}
             in the dedicated section.
