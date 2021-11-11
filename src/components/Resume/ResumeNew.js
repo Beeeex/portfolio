@@ -54,7 +54,7 @@ function ResumeNew() {
             .map((page) => {
               return (
                 <Button
-                  variant="primary"
+                  variant={pageNum === page ? "secondary" : "primary"}
                   style={{ marginRight: 5 }}
                   onClick={() => turnPage(page)}
                 >
