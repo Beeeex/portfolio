@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e5158834.chunk.css",
-    "main.js": "/portfolio/static/js/main.cce0e513.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.cce0e513.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.d2aa3c87.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d2aa3c87.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6a47b5b6.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6a47b5b6.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/portfolio/static/css/2.e7f3f9d7.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.e7f3f9d7.chunk.css.map": "/portfolio/static/css/2.e7f3f9d7.chunk.css.map",
     "static/css/main.e5158834.chunk.css.map": "/portfolio/static/css/main.e5158834.chunk.css.map",
     "static/js/2.1598b75b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1598b75b.chunk.js.LICENSE.txt",
-    "static/media/CV-BassanM-EN.3cec4aee.pdf": "/portfolio/static/media/CV-BassanM-EN.3cec4aee.pdf",
+    "static/media/CV-BassanM-EN.557bc8ae.pdf": "/portfolio/static/media/CV-BassanM-EN.557bc8ae.pdf",
     "static/media/about2.3a416642.png": "/portfolio/static/media/about2.3a416642.png",
     "static/media/avatar.c5b1ead8.svg": "/portfolio/static/media/avatar.c5b1ead8.svg",
     "static/media/coverandback.2327f783.jpg": "/portfolio/static/media/coverandback.2327f783.jpg",
@@ -34,6 +34,6 @@
     "static/css/2.e7f3f9d7.chunk.css",
     "static/js/2.1598b75b.chunk.js",
     "static/css/main.e5158834.chunk.css",
-    "static/js/main.cce0e513.chunk.js"
+    "static/js/main.d2aa3c87.chunk.js"
   ]
 }
